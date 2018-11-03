@@ -1,0 +1,46 @@
+* {
+  border-radius: 0 !important;
+}
+body{
+	font-family: 'Roboto', sans-serif;
+	background: #EBEBEB;
+}
+
+h4{
+	font-family: 'Roboto', sans-serif;
+	font-weight: 700;
+}
+
+p{
+	margin-left: 20px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	margin-right: 20px;
+}
+
+h4{
+	margin-left: 20px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	margin-right: 20px;
+}
+
+img{
+	margin-left: 20px;
+	margin-top: 40px;
+	margin-bottom: 20px;
+	margin-right: 20px;
+}
+
+hr {
+    border: 0;
+    height: 1px;
+    background: #D1D1D1;
+    background-image: linear-gradient(to right, #F2F2F2, #D1D1D1, #F2F2F2);
+}
+
+#navbar{
+	color: #FFFFFF;
+	font-family: 'Roboto', sans-serif;
+	font-weight: 700;
+}
